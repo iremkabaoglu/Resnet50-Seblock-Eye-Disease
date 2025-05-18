@@ -51,4 +51,4 @@ Geliştirilen mimarinin katman yapısı aşağıda görsel olarak sunulmuştur.
 
 **İrem Kabaoğlu**  
 `Sakarya Üniversitesi - Bilişim Sistemleri Mühendisliği`  
-`ISE456 - Bilgisayarla Görmeye Giriş`
+`ISE456 - Bilgisayar Görmesine Giriş`
